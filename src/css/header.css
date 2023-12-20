@@ -16,6 +16,10 @@
   color: green;
 }
 
+.header-list {
+  display: flex;
+}
+
 
 
 .nav-link:hover,
